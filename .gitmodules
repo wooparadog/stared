@@ -1,3 +1,21 @@
 [submodule "python-inotify"]
 	path = python-inotify
 	url = git@github.com:maliubiao/python-inotify.git
+[submodule "arrow"]
+	path = arrow
+	url = git@github.com:crsmithdev/arrow.git
+[submodule "peewee"]
+	path = peewee
+	url = git@github.com:coleifer/peewee.git
+[submodule "gunicorn"]
+	path = gunicorn
+	url = git@github.com:benoitc/gunicorn.git
+[submodule "furl"]
+	path = furl
+	url = git@github.com:gruns/furl.git
+[submodule "wand"]
+	path = wand
+	url = git@github.com:dahlia/wand.git
+[submodule "requests"]
+	path = requests
+	url = git@github.com:kennethreitz/requests.git
