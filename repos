@@ -5,3 +5,6 @@ git@github.com:benoitc/gunicorn.git
 git@github.com:gruns/furl.git
 git@github.com:dahlia/wand.git
 git@github.com:kennethreitz/requests.git
+git@github.com:paramiko/paramiko.git
+git@github.com:fabric/fabric.git
+git@github.com:facebook/tornado.git

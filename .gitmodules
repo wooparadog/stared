@@ -19,3 +19,12 @@
 [submodule "requests"]
 	path = requests
 	url = git@github.com:kennethreitz/requests.git
+[submodule "fabric"]
+	path = fabric
+	url = git@github.com:fabric/fabric.git
+[submodule "paramiko"]
+	path = paramiko
+	url = git@github.com:paramiko/paramiko.git
+[submodule "tornado"]
+	path = tornado
+	url = git@github.com:facebook/tornado.git
